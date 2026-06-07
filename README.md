@@ -1,16 +1,11 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=SYSTEM%20STATUS:%20OPERATIONAL%20🚀&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
-<!--
-**sinejan/sinejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- LOGS / ABOUT ME IN CODE FORMAT -->
+```yaml
+[Core Identity] : Cloud / Platform & AI Engineer
+[Focus Area]    : Designing scalable, resilient cloud infrastructure & AI orchestration
+[Current Stack] : Multi-Agent RAG, Production EKS, Event-Driven AI Pipelines
+[Maturity]      : Production-grade systems engineered from architectural blueprint to live deployment
